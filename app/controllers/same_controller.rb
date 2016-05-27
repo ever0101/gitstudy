@@ -1,0 +1,2 @@
+class SameController < ApplicationController
+end
